@@ -1,7 +1,7 @@
 # D.A.I.S.Y. 
 **D**ecentralized **A**rtificial **I**ntelligence **S**earch For **Y**ou
 
- EasyA x Algorand Harvard Hackathon - Finalists. 
+ EasyA x Algorand Harvard Hackathon 25' - Finalists. 
 
 **Demo**:
 https://www.loom.com/share/bdb90fd49d7c45969368118001563eda?sid=f3fd39ac-68ab-48c5-bc12-cfd8215c4faf
